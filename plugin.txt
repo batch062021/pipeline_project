@@ -1,0 +1,4 @@
+docker pipeline
+slack
+sonarqube
+thinbackup
